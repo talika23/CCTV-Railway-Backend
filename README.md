@@ -121,3 +121,8 @@ Modular API structure for maintainability
 Indexing for faster queries
 
 Structured logging for monitoring
+
+## Videos
+
+**UI Demo:** [Google Drive Link](https://drive.google.com/file/d/1gSe8COHuuUoHEAIIKt9_LcHE98QhX8Lq/view?usp=sharing)  
+**Technical Walkthrough:** [Google Drive Link](https://drive.google.com/file/d/1VL4QBS3UySF78Q85FztwZwB3nid_tFdu/view?usp=sharing)
